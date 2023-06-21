@@ -18,9 +18,10 @@ Make it as far as you can!
 ## How to use:
 1. Open [humanbenchmark](https://humanbenchmark.com/tests/memory) website.
 2. Open & copy content of `humanvisualmemory.js` found in this repository.
-3. Goto website and right click to open developer console in chrome at the front page of website.
-4. Paste content of `humanvisualmemory.js` into the console and press enter.
-5. Watch it go.
+3. Goto website and right click on page.
+4. Click `Inspect` to open developer console in chrome at the front page of website.
+5. Paste content of `humanvisualmemory.js` into the console and press enter.
+6. Watch it go.
 
 ## Front page
 <picture>
