@@ -8,13 +8,13 @@ var windowsActiveMemory = [];
 var curActiveMemory;
 
 function run() {
-  // Start the memory challenge
-  StartBtn.dispatchEvent(evt);
+	// Start the memory challenge
+	StartBtn.dispatchEvent(evt);
 
-  setInterval(() => {
-    checkAndClick();
-    updateNewMemory();
-  }, 50);
+	setInterval(() => {
+		checkAndClick();
+		updateNewMemory();
+	}, 50);
 }
 
 function checkAndClick() {
@@ -27,8 +27,8 @@ function checkAndClick() {
 }
 
 function updateNewMemory() {
-  curActiveMemory = document.getElementsByClassName("active css-lxtdud eut2yre1");
-  windowsActiveMemory = Array.from(curActiveMemory);
+	curActiveMemory = document.getElementsByClassName("active css-lxtdud eut2yre1");
+	windowsActiveMemory = Array.from(curActiveMemory);
 }
 
 run();
