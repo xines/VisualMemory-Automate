@@ -24,11 +24,7 @@ Make it as far as you can!
 6. Watch it go.
 
 ## Front page
-<picture>
-  <img alt="Enter challenge picture" src="https://raw.githubusercontent.com/xines/VisualMemory-Automate/main/vmt1.png">
-</picture>
+![](https://raw.githubusercontent.com/xines/VisualMemory-Automate/main/vmt1.png)
 
 ## Visual Challenge
-<picture>
-  <img alt="Challenge picture" src="https://raw.githubusercontent.com/xines/VisualMemory-Automate/main/vmt2.png">
-</picture>
+![](https://raw.githubusercontent.com/xines/VisualMemory-Automate/main/vmt2.png)
