@@ -24,12 +24,10 @@ Make it as far as you can!
 
 ## Front page
 <picture>
-  <source srcset="https://github.com/xines/VisualMemory-Automate/blob/main/vmt1.png?raw=true">
   <img alt="Enter challenge picture" src="https://github.com/xines/VisualMemory-Automate/blob/main/vmt1.png?raw=true">
 </picture>
 
 ## Visual Challenge
 <picture>
-  <source srcset="https://github.com/xines/VisualMemory-Automate/blob/main/vmt2.png?raw=true">
   <img alt="Challenge picture" src="https://github.com/xines/VisualMemory-Automate/blob/main/vmt2.png?raw=true">
 </picture>
